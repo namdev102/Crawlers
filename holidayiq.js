@@ -1,4 +1,4 @@
-import request from 'request-promise';
+ import request from 'request-promise';
 import cheerio from 'cheerio';
 import {merge, isUndefined} from 'lodash';
 import moment from 'moment';
