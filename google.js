@@ -1,4 +1,4 @@
-import request from 'request-promise';
+ import request from 'request-promise';
 import {merge} from 'lodash';
 import moment from 'moment';
 
